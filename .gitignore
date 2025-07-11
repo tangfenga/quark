@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Package Distribution
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Configuration Files (contains sensitive data)
+config.json
+
+# Log files
+*.log
+
+# Test & Coverage Artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
